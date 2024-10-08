@@ -434,7 +434,7 @@ int main(void)
         settextstyle(0, 0, 4);
         outtextxy(160, 200, "TRY AGAIN");
         delay(2000);
-    }
+   }
     exit(0);
     getch();
     closegraph();
